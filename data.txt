@@ -1,3 +1,5 @@
 Name : Paul Isoard
 Age : 27
 Birth Place : Paris
+Address : Bordeaux
+Favorite sport : Surf
